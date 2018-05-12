@@ -29,13 +29,11 @@ skills:
 #Work experience is required
 roles:
 - title: Senior Engineer. Team Leader Web Services
-  start:2009
+  start: 2009
   end: 2011
-  employer:EDI-Soft AS
+  employer: EDI-Soft AS
   description:
  
- 
-
 #Education is required
 education:
  - level: Master of Science (M.Sc.)
